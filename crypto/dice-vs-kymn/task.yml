@@ -1,0 +1,15 @@
+---
+name: "dice-vs-kymn"
+canonical_name: "dice-vs-kymn"
+description:
+  ja: >
+    <p>【急募】さいころマスター</p>
+    <code>nc {host} {port}</code>
+  en: >
+    <p>[HELP WANTED] King Dice</p>
+    <code>nc {host} {port}</code>
+flag: "RicSec{t0rs10n_p01nt_1s_1nt3r3st1ng}"
+author: ptr-yudai, keymoon
+port: 5963
+tags:
+  - crypto

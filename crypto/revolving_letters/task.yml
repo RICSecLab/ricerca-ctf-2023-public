@@ -1,0 +1,13 @@
+---
+name: "Revolving Letters"
+canonical_name: "revolving-letters"
+description:
+  ja: >
+    <p>文字を回すの、だーぁれ？</p>
+  en: >
+    <p>Who keeps spinning letters around?</p>
+flag: "RicSec{great_you_can_do_anything!}"
+author: keymoon
+tags:
+  - crypto
+  - warmup

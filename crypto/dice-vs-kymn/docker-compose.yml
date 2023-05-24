@@ -1,0 +1,12 @@
+version: '3'
+services:
+  dice-vs-kymn:
+    build: ./
+    ports:
+      - "5963:9999"
+    ulimits:
+      nproc: 65535
+      core: 0
+    restart: always
+    environment:
+      - FLAG="RicSec{t0rs10n_p01nt_1s_1nt3r3st1ng}"

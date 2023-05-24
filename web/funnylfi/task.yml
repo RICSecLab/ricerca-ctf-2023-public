@@ -1,0 +1,15 @@
+---
+name: "funnylfi"
+canonical_name: "funnylfi"
+description:
+  ja: >
+    <p>超安全なサイトビューアサイトを作りました。</p>
+    <a href="http://{host}:{port}" target="_blank">https://{host}:{port}</a>
+  en: >
+    <p>A super-secure website viewer on a website.</p>
+    <a href="http://{host}:{port}" target="_blank">https://{host}:{port}</a>
+flag: "RicSec{mul71by73_ch4r4c73r5_5upp0r7_15_4_lurk1n6_vuln3r4b1l17y}"
+author: satoki
+port: 31415
+tags:
+- web

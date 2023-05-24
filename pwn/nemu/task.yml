@@ -1,0 +1,15 @@
+---
+name: "NEMU"
+canonical_name: "nemu"
+description:
+  ja: >
+    <p>ちょっとしか命令を実装できませんでした。眠かったので。</p>
+    <code>nc {host} {port}</code>
+  en: >
+    <p>I could only implement a few instructions. That's because I was sleepy.</p>
+    <code>nc {host} {port}</code>
+flag: "RicSec{me0w_i_am_n3mu_n3mu_c4tt0}"
+author: keymoon
+port: 9002
+tags:
+  - pwn

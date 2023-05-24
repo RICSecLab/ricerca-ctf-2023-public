@@ -1,0 +1,14 @@
+---
+name: "ignition"
+canonical_name: "ignition"
+description:
+  ja: >
+    <p>3... 2... 1... ignition.</p>
+    <p>ヒント: Ghidra v9.2.2 を使用してください</p>
+  en: >
+    <p>3... 2... 1... ignition.</p>
+    <p>Hint: use Ghidra v9.2.2</p>
+flag: "RicSec{1gn1t10n_bytec0de_1s_s0_r1ch}"
+author: Arata
+tags:
+  - reversing

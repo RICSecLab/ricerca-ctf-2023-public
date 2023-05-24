@@ -1,0 +1,15 @@
+---
+name: "gatekeeper"
+canonical_name: "gatekeeper"
+description:
+  ja: >
+    <p>base64で作ったフィルタを突破してください</p>
+    <code>nc {host} {port}</code>
+  en: >
+    <p>Bypass the base64 filter</p>
+    <code>nc {host} {port}</code>
+flag: "RicSec{b4s364_c4n_c0nt41n_p4ddin6}"
+author: Arata
+port: 10005
+tags:
+  - misc

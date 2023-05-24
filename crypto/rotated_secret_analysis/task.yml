@@ -1,0 +1,12 @@
+---
+name: "Rotated Secret Analysis"
+canonical_name: "rotated-secret-analysis"
+description:
+  ja: >
+    <p>偉い人が鍵をローテーションするとより安全になるって言ってました！え？そういうことじゃないって？</p>
+  en: >
+    <p>A wise person once said that rotating the secret makes it safer! Huh? Isn't that what they meant?</p>
+flag: "RicSec{d0nt_kn0w_th3_5ecr3t_w1th0ut_r0t4t1n9!}"
+author: keymoon
+tags:
+  - crypto

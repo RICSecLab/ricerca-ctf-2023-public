@@ -1,0 +1,15 @@
+---
+name: "safe thread"
+canonical_name: "safe-thread"
+description:
+  ja: >
+    <p>今回BOFは使えなさそう。</p>
+    <code>nc {host} {port}</code>
+  en: >
+    <p>Okay, BOF is useless now.</p>
+    <code>nc {host} {port}</code>
+flag: "RicSec{pthread_1s_w34k_t0_BOF_by_d3s1gn}"
+author: ptr-yudai
+port: 9004
+tags:
+  - pwn

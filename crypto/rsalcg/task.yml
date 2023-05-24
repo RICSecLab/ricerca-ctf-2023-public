@@ -1,0 +1,12 @@
+---
+name: "RSALCG"
+canonical_name: "rsalcg"
+description:
+  ja: >
+    <p>LCGは弱いですが、RSAと組み合わせた場合どうでしょうか。</p>
+  en: >
+    <p>LCG is weak, but what if it's used with RSA?</p>
+flag: "RicSec{1_7h1nk_y0u_uNd3r5t4nd_ev3ry7h1ng_4b0ut_Franklin-Reiter's_a7t4ck}"
+author: ptr-yudai
+tags:
+  - crypto

@@ -1,0 +1,13 @@
+---
+name: "crackme"
+canonical_name: "crackme"
+description:
+  ja: >
+    パスワードをクラックできますか。
+  en: >
+    Can you crack the password?
+flag: "RicSec{U_R_h1y0k0_cr4ck3r!}"
+author: ptr-yudai
+tags:
+  - reversing
+  - warmup

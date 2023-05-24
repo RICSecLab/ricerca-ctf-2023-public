@@ -1,0 +1,16 @@
+---
+name: "BOFSec"
+canonical_name: "bofsec"
+description:
+  ja: >
+    <p>100%本物保証</p>
+    <code>nc {host} {port}</code>
+  en: >
+    <p>100% authentic</p>
+    <code>nc {host} {port}</code>
+flag: "RicSec{U_und3rst4nd_th3_b4s1c_0f_buff3r_0v3rfl0w}"
+author: ptr-yudai
+port: 9001
+tags:
+  - pwn
+  - warmup

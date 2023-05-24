@@ -1,0 +1,15 @@
+---
+name: "ps converter"
+canonical_name: "ps-converter"
+description:
+  ja: >
+    <p>トライマイポストスクリプトコンバーター！</p>
+    <a href="http://{host}:{port}" target="_blank">https://{host}:{port}</a>
+  en: >
+    <p>Try my Postscript converter!</p>
+    <a href="http://{host}:{port}" target="_blank">https://{host}:{port}</a>
+flag: "RicSec{0mg_It_d035nt_l00k_anyth1n9_f6b0c427d3e2}"
+author: hugeh0ge
+port: 51514
+tags:
+- web

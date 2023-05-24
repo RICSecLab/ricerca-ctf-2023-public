@@ -1,0 +1,14 @@
+---
+name: "My name is Power!"
+canonical_name: "my-name-is-power"
+description:
+  ja: >
+    <p>あなたの力を見して！</p>
+    <a href="https://drive.google.com/file/d/15oALs514gxEqirU-tqYvpK9Q0aQGR3of/view?usp=share_link" target="_blank">memory.zip</a>
+  en: >
+    <p>Show me your Power!</p>
+    <a href="https://drive.google.com/file/d/15oALs514gxEqirU-tqYvpK9Q0aQGR3of/view?usp=share_link" target="_blank">memory.zip</a>
+flag: "RicSec{6r347_90w3r!}"
+author: pinksawtooth
+tags:
+  - forensics

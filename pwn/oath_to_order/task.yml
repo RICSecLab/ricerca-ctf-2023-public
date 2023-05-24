@@ -1,0 +1,15 @@
+---
+name: "Oath to Order"
+canonical_name: "oath-to-order"
+description:
+  ja: >
+    <p>秩序を大切に。</p>
+    <code>nc {host} {port}</code>
+  en: >
+    <p>Take care of the order.</p>
+    <code>nc {host} {port}</code>
+flag: "RicSec{th3_0rd3r_d0es_n0t_m3an_th3_4bs3n53_0f_fr33d0m}"
+author: keymoon, ptr-yudai
+port: 9003
+tags:
+  - pwn

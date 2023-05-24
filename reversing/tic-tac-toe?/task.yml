@@ -1,0 +1,12 @@
+---
+name: "tic tac toe?"
+canonical_name: "tic-tac-toe"
+description:
+  ja: >
+    古のインターネットからゲームをダウンロードしましたが、どうやらバグっているようです......
+  en: >
+    I downloaded a game from the ancient internet, but it seems buggy...?
+flag: "RicSec{t1c_t4c_t03_1s_3x1t1ng_g4m3}"
+author: Arata
+tags:
+  - reversing

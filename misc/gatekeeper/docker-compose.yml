@@ -1,0 +1,7 @@
+version: '3'
+services:
+  gatekeeper:
+    build: ./
+    ports:
+      - 10005:9999
+    restart: always

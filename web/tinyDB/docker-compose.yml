@@ -1,0 +1,9 @@
+version: '3.3'
+services:
+  app:
+    container_name: "tinyDB"
+    build: .
+    tty: true
+    ports:
+      - 8888:8888
+    restart: always

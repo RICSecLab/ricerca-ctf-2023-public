@@ -1,0 +1,16 @@
+---
+name: "Cat Café"
+canonical_name: "cat-cafe"
+description:
+  ja: >
+    <p>どの猫が一番好きですか。</p>
+    <a href="http://{host}:{port}" target="_blank">https://{host}:{port}</a>
+  en: >
+    <p>Which cat do you like the most?</p>
+    <a href="http://{host}:{port}" target="_blank">https://{host}:{port}</a>
+flag: "RicSec{directory_traversal_is_one_of_the_most_common_vulnearbilities}"
+author: ptr-yudai
+port: 8000
+tags:
+- web
+- warmup

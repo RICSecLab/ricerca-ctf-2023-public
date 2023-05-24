@@ -1,0 +1,18 @@
+---
+name: "RSLocker"
+canonical_name: "rslocker"
+description:
+  ja: >
+    とあるランサムウェアが世界中に広がっている。<br>
+    我々はそのマルウェアのスクリーンロッカーの抽出に成功した。<br>
+    解除コードを見つけるのを手伝ってほしい。<br>
+    <small style="color:red;">* 配布プログラムには悪意のあるコードが含まれている可能性があります。動作を理解していない限り実行しないでください。</small>
+  en: >
+    A ransomware is spreading around the world.<br>
+    We successfully extracted the screen locker of the malware.<br>
+    Would you help us find the unlock code?<br>
+    <small style="color:red;">* The program may contain some malicious codes. Do not run it unless you understand its behavior.</small>
+flag: "RicSec{Windows_4nt1-d3bug_h4s_b33n_5tud13d_1n_d3pth}"
+author: ptr-yudai
+tags:
+  - reversing

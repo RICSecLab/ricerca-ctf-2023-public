@@ -1,0 +1,15 @@
+---
+name: "tinyDB"
+canonical_name: "tinydb"
+description:
+  ja: >
+    <p>それは、ちいさなちいさなユーザ管理データベースです...</p>
+    <p><a href="http://{host}:{port}" target="_blank">http://{host}:{port}</a></p>
+  en: >
+    <p>It's a tiny tiny user database...</p>
+    <p><a href="http://{host}:{port}" target="_blank">http://{host}:{port}</a></p>
+flag: "RicSec{j4v45cr1p7_15_7000000000000_d1f1cul7}"
+author: "xryuseix"
+port: 8888
+tags:
+  - web

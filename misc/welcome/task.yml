@@ -1,0 +1,21 @@
+---
+name: "welcome"
+canonical_name: "welcome"
+description:
+  ja: >
+    <p>Ricerca CTF 2023へようこそ！ この問題のフラグを見つけるには</p>
+    <ol>
+      <li>まず、<a href="https://2023.ctf.ricsec.co.jp/rules" target="_blank">ルール</a>を読みましょう。</li>
+      <li>次に、Discordの<code>#announcement</code>チャンネルに投稿されたフラグを探しましょう。</li>
+    </ol>
+  en: >
+    <p>Welcome to Ricerca CTF 2023! To find the flag for this challenge:</p>
+    <ol>
+      <li>Read the <a href="https://2023.ctf.ricsec.co.jp/rules" target="_blank">rule</a>.</li>
+      <li>Find the flag posted in <code>#announcement</code> channel in Discord</li>
+    </ol>
+flag: "RicSec{do_U_know_wh4t_Ricerca_means_btw?}"
+author: Ricerca Security, Inc.
+tags:
+  - welcome
+  - warmup
